@@ -1,5 +1,4 @@
 import {createApp} from 'vue'
-import UserModal from './UserModal.vue'
 import UserTable from './UserTable.vue'
 
 const app = createApp({
