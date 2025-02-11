@@ -33,6 +33,18 @@
       "PackagePath": "staticwebassets/img/user.png"
     },
     {
+      "Id": "/Users/bryanbonilla/Desktop/Prueba-web/Prueba/wwwroot/js/UserModal.vue",
+      "PackagePath": "staticwebassets/js/UserModal.vue"
+    },
+    {
+      "Id": "/Users/bryanbonilla/Desktop/Prueba-web/Prueba/wwwroot/js/UserTable.vue",
+      "PackagePath": "staticwebassets/js/UserTable.vue"
+    },
+    {
+      "Id": "/Users/bryanbonilla/Desktop/Prueba-web/Prueba/wwwroot/js/app.js",
+      "PackagePath": "staticwebassets/js/app.js"
+    },
+    {
       "Id": "/Users/bryanbonilla/Desktop/Prueba-web/Prueba/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },

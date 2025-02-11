@@ -84,6 +84,18 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vRhU196Cvwo6nXUy1lnK8212aif0mJJYzoIYF6MOYjM="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"297523"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022vRhU196Cvwo6nXUy1lnK8212aif0mJJYzoIYF6MOYjM=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Feb 2025 22:11:48 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Prueba/js/app.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\app.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-fCFJC\u002BfQ9F\u002Bfve9RxeMlpxwKDOFJjgWHDOet\u002BteqAGs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"212"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022fCFJC\u002BfQ9F\u002Bfve9RxeMlpxwKDOFJjgWHDOet\u002BteqAGs=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Feb 2025 15:22:28 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Prueba/js/app.kg7jikhc0n.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\app.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kg7jikhc0n"},{"Name":"integrity","Value":"sha256-fCFJC\u002BfQ9F\u002Bfve9RxeMlpxwKDOFJjgWHDOet\u002BteqAGs="},{"Name":"label","Value":"_content/Prueba/js/app.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"212"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022fCFJC\u002BfQ9F\u002Bfve9RxeMlpxwKDOFJjgWHDOet\u002BteqAGs=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Feb 2025 15:22:28 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Prueba/js/site.dx3722ghgi.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -107,6 +119,30 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vrt18zr7c4"},{"Name":"integrity","Value":"sha256-\u002BzC5BHi6\u002BewM8lnUeV\u002BJUKLK9AMFY\u002BWRI97euI185T4="},{"Name":"label","Value":"_content/Prueba/js/tables.js"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1766"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022\u002BzC5BHi6\u002BewM8lnUeV\u002BJUKLK9AMFY\u002BWRI97euI185T4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Feb 2025 22:11:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Prueba/js/UserModal.5guxwq3d71.vue">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\UserModal.vue'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5guxwq3d71"},{"Name":"integrity","Value":"sha256-m69dHLSd8qDhh7JJXW7YmWwmmKzz16wjeLdU7hAjuoo="},{"Name":"label","Value":"_content/Prueba/js/UserModal.vue"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3245"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022m69dHLSd8qDhh7JJXW7YmWwmmKzz16wjeLdU7hAjuoo=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Feb 2025 04:02:02 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Prueba/js/UserModal.vue">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\UserModal.vue'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-m69dHLSd8qDhh7JJXW7YmWwmmKzz16wjeLdU7hAjuoo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3245"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022m69dHLSd8qDhh7JJXW7YmWwmmKzz16wjeLdU7hAjuoo=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Feb 2025 04:02:02 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Prueba/js/UserTable.vue">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\UserTable.vue'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-zhzZ\u002Bxd7/fAxKfRNXOsz3ozJT/hcMdkvSkB0f9qfFis="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3428"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022zhzZ\u002Bxd7/fAxKfRNXOsz3ozJT/hcMdkvSkB0f9qfFis=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Feb 2025 02:21:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Prueba/js/UserTable.ynbvo2futn.vue">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\UserTable.vue'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ynbvo2futn"},{"Name":"integrity","Value":"sha256-zhzZ\u002Bxd7/fAxKfRNXOsz3ozJT/hcMdkvSkB0f9qfFis="},{"Name":"label","Value":"_content/Prueba/js/UserTable.vue"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3428"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022zhzZ\u002Bxd7/fAxKfRNXOsz3ozJT/hcMdkvSkB0f9qfFis=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Feb 2025 02:21:15 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Prueba/lib/bootstrap/dist/css/bootstrap-grid.agp80tu62r.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.css'))</AssetFile>

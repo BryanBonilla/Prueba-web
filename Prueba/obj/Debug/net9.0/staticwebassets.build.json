@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2srCWpq3+s1HFYyEERqclVw1fdfHGFb46zs+Jgbjctk=",
+  "Hash": "ygnL5mVGzt94sp6ySvtTNcW+38KvgHpiOlt7y36fQkc=",
   "Source": "Prueba",
   "BasePath": "_content/Prueba",
   "Mode": "Default",
@@ -1004,6 +1004,27 @@
       "OriginalItemSpec": "/Users/bryanbonilla/Desktop/Prueba-web/Prueba/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
+      "Identity": "/Users/bryanbonilla/Desktop/Prueba-web/Prueba/obj/Debug/net9.0/compressed/oh3tji7rww-kg7jikhc0n.gz",
+      "SourceId": "Prueba",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/bryanbonilla/Desktop/Prueba-web/Prueba/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/Prueba",
+      "RelativePath": "js/app#[.{fingerprint=kg7jikhc0n}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/bryanbonilla/Desktop/Prueba-web/Prueba/wwwroot/js/app.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "hbqavxmxj7",
+      "Integrity": "veYBuKVk2Asr5AsUqI0jFbyXYDfMwZVrCVN20/tJvoo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/bryanbonilla/Desktop/Prueba-web/Prueba/wwwroot/js/app.js"
+    },
+    {
       "Identity": "/Users/bryanbonilla/Desktop/Prueba-web/Prueba/obj/Debug/net9.0/compressed/p8ycozbel2-etia79py8x.gz",
       "SourceId": "Prueba",
       "SourceType": "Discovered",
@@ -1571,6 +1592,27 @@
       "OriginalItemSpec": "wwwroot/img/user.png"
     },
     {
+      "Identity": "/Users/bryanbonilla/Desktop/Prueba-web/Prueba/wwwroot/js/app.js",
+      "SourceId": "Prueba",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/bryanbonilla/Desktop/Prueba-web/Prueba/wwwroot/",
+      "BasePath": "_content/Prueba",
+      "RelativePath": "js/app#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kg7jikhc0n",
+      "Integrity": "fCFJC+fQ9F+fve9RxeMlpxwKDOFJjgWHDOet+teqAGs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/app.js"
+    },
+    {
       "Identity": "/Users/bryanbonilla/Desktop/Prueba-web/Prueba/wwwroot/js/site.js",
       "SourceId": "Prueba",
       "SourceType": "Discovered",
@@ -1611,6 +1653,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/js/tables.js"
+    },
+    {
+      "Identity": "/Users/bryanbonilla/Desktop/Prueba-web/Prueba/wwwroot/js/UserModal.vue",
+      "SourceId": "Prueba",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/bryanbonilla/Desktop/Prueba-web/Prueba/wwwroot/",
+      "BasePath": "_content/Prueba",
+      "RelativePath": "js/UserModal#[.{fingerprint}]?.vue",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5guxwq3d71",
+      "Integrity": "m69dHLSd8qDhh7JJXW7YmWwmmKzz16wjeLdU7hAjuoo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/UserModal.vue"
+    },
+    {
+      "Identity": "/Users/bryanbonilla/Desktop/Prueba-web/Prueba/wwwroot/js/UserTable.vue",
+      "SourceId": "Prueba",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/bryanbonilla/Desktop/Prueba-web/Prueba/wwwroot/",
+      "BasePath": "_content/Prueba",
+      "RelativePath": "js/UserTable#[.{fingerprint}]?.vue",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ynbvo2futn",
+      "Integrity": "zhzZ+xd7/fAxKfRNXOsz3ozJT/hcMdkvSkB0f9qfFis=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/UserTable.vue"
     },
     {
       "Identity": "/Users/bryanbonilla/Desktop/Prueba-web/Prueba/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
@@ -4466,6 +4550,304 @@
       ]
     },
     {
+      "Route": "js/app.js",
+      "AssetFile": "/Users/bryanbonilla/Desktop/Prueba-web/Prueba/obj/Debug/net9.0/compressed/oh3tji7rww-kg7jikhc0n.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.006622516556"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "150"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"veYBuKVk2Asr5AsUqI0jFbyXYDfMwZVrCVN20/tJvoo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 15:22:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"fCFJC+fQ9F+fve9RxeMlpxwKDOFJjgWHDOet+teqAGs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fCFJC+fQ9F+fve9RxeMlpxwKDOFJjgWHDOet+teqAGs="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.js",
+      "AssetFile": "/Users/bryanbonilla/Desktop/Prueba-web/Prueba/wwwroot/js/app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fCFJC+fQ9F+fve9RxeMlpxwKDOFJjgWHDOet+teqAGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 15:22:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fCFJC+fQ9F+fve9RxeMlpxwKDOFJjgWHDOet+teqAGs="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.js.gz",
+      "AssetFile": "/Users/bryanbonilla/Desktop/Prueba-web/Prueba/obj/Debug/net9.0/compressed/oh3tji7rww-kg7jikhc0n.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "150"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"veYBuKVk2Asr5AsUqI0jFbyXYDfMwZVrCVN20/tJvoo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 15:22:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-veYBuKVk2Asr5AsUqI0jFbyXYDfMwZVrCVN20/tJvoo="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.kg7jikhc0n.js",
+      "AssetFile": "/Users/bryanbonilla/Desktop/Prueba-web/Prueba/obj/Debug/net9.0/compressed/oh3tji7rww-kg7jikhc0n.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.006622516556"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "150"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"veYBuKVk2Asr5AsUqI0jFbyXYDfMwZVrCVN20/tJvoo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 15:22:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"fCFJC+fQ9F+fve9RxeMlpxwKDOFJjgWHDOet+teqAGs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kg7jikhc0n"
+        },
+        {
+          "Name": "label",
+          "Value": "js/app.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fCFJC+fQ9F+fve9RxeMlpxwKDOFJjgWHDOet+teqAGs="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.kg7jikhc0n.js",
+      "AssetFile": "/Users/bryanbonilla/Desktop/Prueba-web/Prueba/wwwroot/js/app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fCFJC+fQ9F+fve9RxeMlpxwKDOFJjgWHDOet+teqAGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 15:22:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kg7jikhc0n"
+        },
+        {
+          "Name": "label",
+          "Value": "js/app.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fCFJC+fQ9F+fve9RxeMlpxwKDOFJjgWHDOet+teqAGs="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.kg7jikhc0n.js.gz",
+      "AssetFile": "/Users/bryanbonilla/Desktop/Prueba-web/Prueba/obj/Debug/net9.0/compressed/oh3tji7rww-kg7jikhc0n.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "150"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"veYBuKVk2Asr5AsUqI0jFbyXYDfMwZVrCVN20/tJvoo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 15:22:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kg7jikhc0n"
+        },
+        {
+          "Name": "label",
+          "Value": "js/app.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-veYBuKVk2Asr5AsUqI0jFbyXYDfMwZVrCVN20/tJvoo="
+        }
+      ]
+    },
+    {
       "Route": "js/site.dx3722ghgi.js",
       "AssetFile": "/Users/bryanbonilla/Desktop/Prueba-web/Prueba/obj/Debug/net9.0/compressed/ci6jw3ns1g-dx3722ghgi.gz",
       "Selectors": [
@@ -5058,6 +5440,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-HlerlRkkGwhDG8vhmfgFQxdAa6ztntUsfxlcZGPjr0I="
+        }
+      ]
+    },
+    {
+      "Route": "js/UserModal.5guxwq3d71.vue",
+      "AssetFile": "/Users/bryanbonilla/Desktop/Prueba-web/Prueba/wwwroot/js/UserModal.vue",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3245"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m69dHLSd8qDhh7JJXW7YmWwmmKzz16wjeLdU7hAjuoo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 04:02:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5guxwq3d71"
+        },
+        {
+          "Name": "label",
+          "Value": "js/UserModal.vue"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-m69dHLSd8qDhh7JJXW7YmWwmmKzz16wjeLdU7hAjuoo="
+        }
+      ]
+    },
+    {
+      "Route": "js/UserModal.vue",
+      "AssetFile": "/Users/bryanbonilla/Desktop/Prueba-web/Prueba/wwwroot/js/UserModal.vue",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3245"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m69dHLSd8qDhh7JJXW7YmWwmmKzz16wjeLdU7hAjuoo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 04:02:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-m69dHLSd8qDhh7JJXW7YmWwmmKzz16wjeLdU7hAjuoo="
+        }
+      ]
+    },
+    {
+      "Route": "js/UserTable.vue",
+      "AssetFile": "/Users/bryanbonilla/Desktop/Prueba-web/Prueba/wwwroot/js/UserTable.vue",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3428"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zhzZ+xd7/fAxKfRNXOsz3ozJT/hcMdkvSkB0f9qfFis=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 02:21:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zhzZ+xd7/fAxKfRNXOsz3ozJT/hcMdkvSkB0f9qfFis="
+        }
+      ]
+    },
+    {
+      "Route": "js/UserTable.ynbvo2futn.vue",
+      "AssetFile": "/Users/bryanbonilla/Desktop/Prueba-web/Prueba/wwwroot/js/UserTable.vue",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3428"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zhzZ+xd7/fAxKfRNXOsz3ozJT/hcMdkvSkB0f9qfFis=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 02:21:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ynbvo2futn"
+        },
+        {
+          "Name": "label",
+          "Value": "js/UserTable.vue"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zhzZ+xd7/fAxKfRNXOsz3ozJT/hcMdkvSkB0f9qfFis="
         }
       ]
     },

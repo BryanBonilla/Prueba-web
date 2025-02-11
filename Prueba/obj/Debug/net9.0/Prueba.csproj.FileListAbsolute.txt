@@ -222,3 +222,4 @@
 /Users/bryanbonilla/Desktop/Prueba-web/Prueba/obj/Debug/net9.0/Prueba.csproj.Up2Date
 /Users/bryanbonilla/Desktop/Prueba-web/Prueba/bin/Debug/net9.0/package-lock.json
 /Users/bryanbonilla/Desktop/Prueba-web/Prueba/bin/Debug/net9.0/package.json
+/Users/bryanbonilla/Desktop/Prueba-web/Prueba/obj/Debug/net9.0/compressed/oh3tji7rww-kg7jikhc0n.gz
