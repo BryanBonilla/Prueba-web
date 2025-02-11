@@ -1,36 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ximen\\Desktop\\Prueba-web\\Prueba\\Prueba.csproj": {}
+    "/Users/bryanbonilla/Desktop/Prueba-web/Prueba/Prueba.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ximen\\Desktop\\Prueba-web\\Prueba\\Prueba.csproj": {
+    "/Users/bryanbonilla/Desktop/Prueba-web/Prueba/Prueba.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ximen\\Desktop\\Prueba-web\\Prueba\\Prueba.csproj",
+        "projectUniqueName": "/Users/bryanbonilla/Desktop/Prueba-web/Prueba/Prueba.csproj",
         "projectName": "Prueba",
-        "projectPath": "C:\\Users\\ximen\\Desktop\\Prueba-web\\Prueba\\Prueba.csproj",
-        "packagesPath": "C:\\Users\\ximen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ximen\\Desktop\\Prueba-web\\Prueba\\obj\\",
+        "projectPath": "/Users/bryanbonilla/Desktop/Prueba-web/Prueba/Prueba.csproj",
+        "packagesPath": "/Users/bryanbonilla/.nuget/packages/",
+        "outputPath": "/Users/bryanbonilla/Desktop/Prueba-web/Prueba/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ximen\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/bryanbonilla/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -43,11 +37,24 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -67,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
